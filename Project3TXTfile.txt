@@ -1,2 +1,10 @@
-In order to approach this project, I must first import my userlog.log data into my notebook or I could use the log_file_path = function as well as use the read-only type “r” to direct my notebook to access each line in the userlog.log file. For this assignment, I need to parse multiple lines to be able to produce automated reports on aspects such as number of times someone has logged in/out, what time someone logged in, list of unique domain names, etc. Because I need to parse multiple lines, I will need to assign the whole file’s data to variables using data = f.read(). In terms of exporting my parsed data to a text file, I will use the “with open(export_file “w+”) as file” command. By using “w+” I will be allowed to edit the file as well.
+In order to approach this project, I must first import my userlog.log data into my notebook 
+or I could use the log_file_path = function as well as use the read-only type
+“r” to direct my notebook to access each line in the userlog.log file.
+For this assignment, I need to parse multiple lines to be able to produce automated 
+reports on aspects such as number of times someone has logged in/out, what time someone 
+logged in, list of unique domain names, etc. Because I need to parse multiple lines, 
+I will need to assign the whole file’s data to variables using data = f.read(). 
+In terms of exporting my parsed data to a text file, I will use the 
+“with open(export_file “w+”) as file” command. By using “w+” I will be allowed to edit the file as well.
 	There will be numerous functions and commands I will need to utilize in order to effectively parse my log file and create automated reports. The one’s listed above are the ones I found unique to this assignment and hope that those commands will help my code endeavors for project 3.
