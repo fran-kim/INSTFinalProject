@@ -1,4 +1,4 @@
-# FinalINSTPrpj
+# FinalINSTProj
 
 Project 3 for INST126. Task is to write code to parse log file and generate automated reports.
 The goal of this project is to analyze and parse a log file of information regarding 50 different users.
