@@ -1,7 +1,8 @@
 # FinalINSTProj
 
-Project 3 for INST126. Task is to write code to parse log file and generate automated reports.
-The goal of this project is to analyze and parse a log file of information regarding 50 different users.
+My Final INST Python Project. 
+Task is to write code to parse log file and generate automated reports.
+The goal of this project is to analyze and parse a log file of information regarding numerous users.
 Information such as these users' login date and time, email ID, etc. 
 More specifically:
 the first column is "Date and Time"
